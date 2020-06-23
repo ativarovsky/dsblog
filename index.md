@@ -13,9 +13,15 @@ Master of Public Health in Epidemiology & Applied Biostatistics (Columbia Univer
 
 ## About
 
+<div class="row">
+<div class="col-md-6">
 Hi there. I'm Alice and I'm passionate about using data to improve health outcomes. This blog was created to share and develop that interest.   
+</div>
+<div class="col-md-6">
+If you're an employer, please make your way over to my <a href="resume.html">full résumé</a> and/or [LinkedIn page](https://www.linkedin.com/in/alice-tivarovsky-56281131/).
+</div>
+</div>
 
-If you're an employer, please make your way over to my [full résumé](resume.html) and/or [LinkedIn page](https://www.linkedin.com/in/alice-tivarovsky-56281131/). 
 <br><br>
 
 
