@@ -11,6 +11,29 @@ B.S. Chemical Engineering (UCLA)
 Master of Public Health in Epidemiology & Applied Biostatistics (Columbia University)
 <br><br>
 
+## Test Stuff
+
+<div class="container m-5">
+<h2> Test Stuff</h2>
+  <div class="row">
+    <div class="col-sm-4 col-xs-3">
+      some stuff
+    </div>
+    <div class="col-sm-8 col-xs-12">
+      Some other stuff
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
 ## About
 
