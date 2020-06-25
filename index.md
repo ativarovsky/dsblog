@@ -7,19 +7,15 @@ output:
     toc_float: true
 ---
 
-B.S. Chemical Engineering (UCLA) 
-Master of Public Health in Epidemiology & Applied Biostatistics (Columbia University)
-<br><br>
-
-## Test Stuff
 
 <div class="container m-5">
-<h2> Test Stuff</h2>
+<h1> Alice Tivarovsky </h1>
+<p> numbers | words </p>
   <div class="row">
-    <div class="col-sm-4 col-xs-3">
-      some stuff
+    <div class="col-md-2">
+    <img src="thumbnail.jpeg" class=".img-fluid" class="rounded-circle" alt="Alice Tivarovsky">
     </div>
-    <div class="col-sm-8 col-xs-12">
+    <div class="col-md-10">
       Some other stuff
     </div>
   </div>
@@ -27,19 +23,14 @@ Master of Public Health in Epidemiology & Applied Biostatistics (Columbia Univer
 
 
 
-
-
-
-
-
-
-
-
 ## About
 
 <div class="row">
 <div class="col-md-6">
-Hi there. I'm Alice and I'm passionate about using data to improve health outcomes. This blog was created to share and develop that interest.   
+Hi there. <br>
+I'm glad you stopped by. 
+
+I'm Alice and I'm interested in exploring.... This blog was created to share and develop that interest.   
 </div>
 <div class="col-md-6">
 If you're an employer, please make your way over to my <a href="resume.html">full résumé</a> and/or [LinkedIn page](https://www.linkedin.com/in/alice-tivarovsky-56281131/).
